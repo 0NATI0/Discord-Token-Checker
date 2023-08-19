@@ -1,0 +1,4 @@
+requests
+colorama
+datetime
+pystyle
