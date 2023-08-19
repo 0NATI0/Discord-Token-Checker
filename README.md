@@ -1,4 +1,4 @@
-# Discord Token Checker
+# Discord Token Checker | ⭐ for more
 
 ![](https://cdn.discordapp.com/attachments/1141472031028809868/1142531044994728026/image.png)
 
