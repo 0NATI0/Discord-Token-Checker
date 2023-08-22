@@ -114,7 +114,6 @@ class Checker:
 
         proxies = {"http": f"http://{Misc.proxy()}"} if not config['proxyless'] else None
         r = requests.get("https://discord.com/api/v9/users/@me/affinities/users", headers=newheaders, proxies=proxies)
-        print(r.status_code)
         if r.status_code == 200:
             Log.Success('Unlocked', token)
             total += 1
